@@ -15,7 +15,7 @@
 
 ## ลิงก์เว็บ (GitHub Pages)
 
-(https://github.com/dA9-j/Canteen-Guide.git)
+(https://github.com/dA9-j/Canteen-Guide-2.git)
 
 ## ฟีเจอร์
 
